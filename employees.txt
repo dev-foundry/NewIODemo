@@ -1,0 +1,8 @@
+EmployeeData
+Paweł,Ćwik
+32
+y
+EmployeeData
+Dawid,Nowak
+32
+n
